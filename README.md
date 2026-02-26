@@ -7,9 +7,6 @@ Data analysis and Excel dashboard for 5,000+ smartphones.
 ## 🎯 Project Objective
 With over 5,000+ smartphone models on the market, consumers and retailers struggle to evaluate true device value. The goal of this project is to decode the smartphone market and identify the **"Best Value"** models for any given budget by analyzing the relationship between price, hardware specifications (RAM, Battery), and brand performance.
 
-## 📊 The Dashboard
-https://github.com/sachinvk2211-debug/Milestone-Project-1/blob/main/Project%20Dashboard.jpg?raw=true
-
 ## 🛠️ Tools & Technical Skills Used
 This project was built entirely in **Advanced Microsoft Excel**, showcasing an end-to-end business intelligence workflow:
 * **Data Extraction & Cleaning (ETL):** Used **Power Query** to clean messy raw CSV data, trim spaces, and split text columns (e.g., separating "8GB/128GB" into dedicated RAM and Storage columns).
